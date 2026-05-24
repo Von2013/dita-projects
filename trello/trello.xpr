@@ -1693,7 +1693,7 @@
                                                 <null/>
                                             </field>
                                             <field name="value">
-                                                <String>(c) ${date(YYYY)} PANTOPIX. </String>
+                                                <String>(c) 2024 PANTOPIX. </String>
                                             </field>
                                             <field name="defaultValue">
                                                 <null/>
@@ -1999,7 +1999,7 @@
                                                 <null/>
                                             </field>
                                             <field name="value">
-                                                <String>(c) ${date(YYYY)} PANTOPIX</String>
+                                                <String>(c) 2024 PANTOPIX</String>
                                             </field>
                                             <field name="defaultValue">
                                                 <null/>
@@ -2305,7 +2305,7 @@
                                                 <null/>
                                             </field>
                                             <field name="value">
-                                                <String>(c) ${date(YYYY)} PANTOPIX</String>
+                                                <String>(c) 2024 PANTOPIX</String>
                                             </field>
                                             <field name="defaultValue">
                                                 <null/>
@@ -2611,7 +2611,7 @@
                                                 <null/>
                                             </field>
                                             <field name="value">
-                                                <String>(c) ${date(YYYY)} PANTOPIX</String>
+                                                <String>(c) 2024 PANTOPIX</String>
                                             </field>
                                             <field name="defaultValue">
                                                 <null/>
