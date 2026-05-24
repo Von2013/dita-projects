@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build DITA HTML5",
+            "type": "shell",
+            "command": "dita",
+            "args": [
+                "--input=${file}",
+                "--format=html5",
+                "--output=${workspaceFolder}/out"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            },
+            "problemMatcher": []
+        }
+    ]
+}
